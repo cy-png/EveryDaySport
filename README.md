@@ -13,12 +13,14 @@ EveryDaySport is inspired by *[sofish](https://www.github.com/sofish)* 的 [Ever
 
 Fork this repository from someone else to have some fun, and to understand what GitHub is about. It can be changed to any daily sign plan. For me, however, habits are easy to get used to, but signing itself is hard to remember. 
 
+
 ### 三、可以打卡的内容(What can be included)
 
 
 刷题, 运动, 看电影, 联系家人朋友, 练琴, etc, 频率根据项目内容可不等，健康到不行
 
 Study, exercise, watch movie, contact family and friends, practice instrument, etc. The frequency can vary depending on the kinds of projects.
+
 
 ### 四、记录方法
 

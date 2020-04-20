@@ -17,8 +17,8 @@ Date|Sports|Study|Notes
 15|√| |偷偷溜去墓地跑了4km|
 16| | | |
 17| | | |
-18| |√|Hackerrack|
-19| | | |
+18|√|√|Hackerrack|
+19|√| |Walden Hiking|
 20| | | |
 21| | | |
 22| | | |

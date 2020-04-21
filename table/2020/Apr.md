@@ -19,7 +19,7 @@ Date|Sports|Study|Notes
 17| | | |
 18|√|√|Hackerrack|
 19|√| |Walden Hiking|
-20| | | |
+20|√| | |
 21| | | |
 22| | | |
 23| | | |

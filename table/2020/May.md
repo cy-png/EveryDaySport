@@ -3,7 +3,7 @@ Date|Sports|Study|Notes
 1| | | |
 2|√| |背，HIIT|
 3|√| |肚子, HIIT|
-4| | | |
+4|√| |腿, HIIT|
 5| | | |
 6| | | |
 7| | | |

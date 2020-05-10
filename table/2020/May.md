@@ -8,7 +8,7 @@ Date|Sports|Study|Notes
 6|√| |腿|
 7|√| |HIIT|
 8| | | |
-9|√| |肚子, 背, HIIT|
+9|√|√|肚子, 背, HIIT, HackerRack|
 10| | | |
 11| | | |
 12| | | |

@@ -17,8 +17,8 @@ Date|Sports|Study|Notes
 15| | | |
 16|√| |HIIT 20min|
 17| | | |
-18|√| |跑步,腿 90min|
-19|√| |腿 10min|
+18|√|√|跑步,腿 90min, HackerRack|
+19|√|√|腿 10min, HackerRack|
 20| | | |
 21| | | |
 22| | | |

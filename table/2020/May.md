@@ -20,7 +20,7 @@ Date|Sports|Study|Notes
 18|√|√|跑步,腿 90min, HackerRack|
 19|√|√|腿 10min, HackerRack|
 20|√| |跑步|
-21| | | |
+21|√| |腿,HIIT,肚子|
 22| | | |
 23| | | |
 24| | | |

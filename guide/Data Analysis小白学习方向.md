@@ -12,7 +12,7 @@ Author： Chuyue
 
 (2) LeetCode 免费SQL 没几道 做完才发现LeetCode还有3大面付费的 算了以后再说吧..https://byrony.github.io/summary-of-sql-questions-on-leetcode.html
 
-(3) SQL50题 一位在搞国内秋招的人大统计大佬说他只刷了这个就差不多了，刷完后我发现明明还差很多https://sql50.readthedocs.io/zh_CN/latest/sql50.html
+(3) SQL50题 一位在搞国内秋招的人大统计大佬说他只刷了这个就差不多了 刷完后我发现明明还差很多 入门挺好的 但是因为表的对应关系比较特殊而且始终就是那几个大表 几乎所有的join都可以直接用where搞定 刷到后面几乎不用动脑子 感觉刷完提高不大https://sql50.readthedocs.io/zh_CN/latest/sql50.html
 https://www.jianshu.com/p/476b52ee4f1b
 
 #### 3、Statistics
